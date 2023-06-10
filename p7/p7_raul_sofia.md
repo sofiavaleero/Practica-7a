@@ -2,7 +2,7 @@
 
 ## CODI DE LA PRACTICA
 
-´´´cpp
+```cpp
 #include <Arduino.h>
 #include "AudioGeneratorAAC.h"
 #include "AudioOutputI2S.h"
@@ -33,7 +33,7 @@ void loop(){
   }
 }
 
-´´´
+```
 
 # FUNCIONAMENT 
 
