@@ -3,6 +3,7 @@
 ## CODI DE LA PRACTICA
 
 ´´´cpp
+
 AudioFileSourcePROGMEM *in;
 AudioGeneratorAAC *aac;
 AudioOutputI2S *out;
@@ -27,6 +28,7 @@ void loop(){
     delay(1000);
   }
 }
+
 ´´´
 
 # FUNCIONAMENT 
